@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓I'm currently studying in Thai Nguyen University of Information and Communication Technology.<br>⚡I'm second years.<br>⚽I really like football, running.<br>🌐I want to become a Web Developer.<br><br>
+🎓I'm currently studying in Thai Nguyen University of Information and Communication Technology.<br>⚡I'm second years.<br>⚽I really like football, running.<br>🌐My goal become a Web Developer.<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/t20777) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mathanhthuy1427) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thuy-ma-thanh-971607425) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mthuysoaica1408) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mathanhthuyreal207@gmail.com) 
